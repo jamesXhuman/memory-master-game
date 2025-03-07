@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
     "appLocation": "/",
     "apiLocation": "api",
     "outputLocation": "/",
     "apiPort": 7071,
     "appPort": 4280
+=======
+{
+    "appLocation": "/",
+    "apiLocation": "api",
+    "outputLocation": "/",
+    "apiPort": 7071,
+    "appPort": 4280
+>>>>>>> 252de864cf21dece39c4dfddccb2d69f2c40f42c
   }
