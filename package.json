@@ -1,0 +1,22 @@
+{
+  "name": "memory-master-game",
+  "version": "1.0.0",
+  "description": "A game to practice paging and addressing in operating systems",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:func": "cd api && func start",
+    "start:swa": "swa start"
+  },
+  "keywords": [],
+  "author": "James Human",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "@azure/functions": "^4.0.0",
+    "@azure/static-web-apps-cli": "^1.0.0"
+  }
+}
